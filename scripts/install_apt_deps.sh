@@ -177,11 +177,11 @@ pkg_dep_list_docker=(
     docker-ce
 ) # End List
 
-pkg_dep_list_realsense_anyarch=(
-    librealsense2-utils
-    librealsense2-dev
-    librealsense2-gl-dev
-) # End List
+# pkg_dep_list_realsense_anyarch=(
+#     librealsense2-utils
+#     librealsense2-dev
+#     librealsense2-gl-dev
+# ) # End List
 
 pkg_dep_list_realsense_x86_64=(
     librealsense2-dkms
